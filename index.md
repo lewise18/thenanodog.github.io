@@ -1,4 +1,4 @@
-<h1 style="text-align:center"><span>nanodog&#39;s Website</span></h1>
+<h1><span>nanodog&#39;s Website</span></h1>
 
 <hr />
 <p><span style="font-family:Lucida Sans Unicode,Lucida Grande,sans-serif">Programs&nbsp;&nbsp;&nbsp; <a href="./simplelaunch">SimpleLaunch</a>&nbsp;&nbsp;&nbsp; About&nbsp;&nbsp;&nbsp; Utilities</span></p>
