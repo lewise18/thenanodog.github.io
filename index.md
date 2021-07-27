@@ -1,4 +1,3 @@
-<title>Homepage<title>
 <h1 style="text-align:center"><span style="font-family:Arial,Helvetica,sans-serif">Welcome to nanodog&#39;s Website!</span></h1>
 
 <hr />
