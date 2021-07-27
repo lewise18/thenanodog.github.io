@@ -1,2 +1,1 @@
-layout: home
-<h1 id="hello-jekyll">Hello, Jekyll!</h1>
+<h1 id="header-1">Welcome to my Website!</h1>
