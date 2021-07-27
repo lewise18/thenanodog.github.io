@@ -1,7 +1,7 @@
-<h1 style="text-align:center"><span style="font-family:Arial,Helvetica,sans-serif">Welcome to nanodog&#39;s Website!</span></h1>
+<h1 style="text-align:center"><span style="font-family:Tahoma,Geneva,sans-serif">nanodog&#39;s Website</span></h1>
 
 <hr />
-<p style="text-align:center"><input name="Programs Button" type="button" value="Programs" action="/programs.html" />&nbsp; <input name="SimpleButton" type="button" value="SimpleLaunch" action="/simplelaunch.html" /> <input name="Aboutpage" type="button" value="About" action="/about.html" /></p>
+<p style="text-align:center"><span style="font-family:Lucida Sans Unicode,Lucida Grande,sans-serif">Programs&nbsp;&nbsp;&nbsp; <a href="./simplelaunch.html">SimpleLaunch</a>&nbsp;&nbsp;&nbsp; About&nbsp;&nbsp;&nbsp; Utilities</span></p>
 
 <hr />
-<p>&nbsp;</p>
+<h2>Welcome to nanodog&#39;s Website! On this site, I will host <a href="./programs.html">downloads to the software I make</a> and it&#39;s also the hub for a piece of software I made called <a href="./simplelaunch.html">SimpleLaunch</a>.</h2>
