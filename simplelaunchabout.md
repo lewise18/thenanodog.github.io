@@ -12,10 +12,13 @@
 
 <p><img alt="" src="./simplelaunch/screenshots/SimpleLaunchScreenShot (1).png" style="height:360px; width:640px" /></p>
 
+<hr />
 <p><img alt="" src="./simplelaunch/screenshots/SimpleLaunchScreenShot (2).png" style="height:360px; width:640px" /></p>
 
+<hr />
 <p><img alt="" src="./simplelaunch/screenshots/SimpleLaunchScreenShot (3).png" style="height:360px; width:640px" /></p>
 
+<hr />
 <p><img alt="" src="./simplelaunch/screenshots/SimpleLaunchScreenShot (4).png" style="height:360px; width:640px" /></p>
 
 <p>&nbsp;</p>
